@@ -34,7 +34,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 🚀 Projeto em produção
 
-Acesse [``]() do seu navegador.
+Acesse [`https://project-quality-food.netlify.app/`](https://project-quality-food.netlify.app/) do seu navegador.
 
 ## 📄 Licença
 
