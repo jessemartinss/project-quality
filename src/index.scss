@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600;800&display=swap');
+
+$font-playfair:'Playfair Display', serif;
+$font-inter:'Inter', sans-serif;
+
+$color-brown-500:#865C49;
+$color-brown-400:#BF8854;
+$color-brown-300:#FFC773;
+$color-brown-200:#FFD89D;
+$color-brown-100:#FFF6E9;
+$color-red-500:#823328;
+$color-red-400:#BF4C3D;
+$color-red-300:#F97664;
+$color-red-200:#FFBFB6;
+$color-red-100:#FEEFEC;
+$color-blue-500:#066188;
+$color-blue-400:#1C8AB9;
+$color-blue-300:#5EC6E8;
+$color-blue-200:#ACE6F9;
+$color-blue-100:#ECF8FC;
+$color-dark-700:#041434;
+$color-dark-600:#4A556C;
+$color-dark-500:#6A758A;
+$color-dark-400:#B1BAC8;
+$color-dark-300:#DBDEE6;
+$color-dark-200:#EFF1F5;
+$color-dark-100:#F7F8FA;
+
+* {
+  font-family: $font-inter;
+}
